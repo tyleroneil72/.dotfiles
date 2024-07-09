@@ -5,15 +5,16 @@
 ## Description
 This repo serves as a collection for my dotfiles
 
-## Todo
+# Done
+- Rectangle
 
+## Todo
 - zsh
 - nvim
 - tmux
 - gitconfig
 - brewfile
 - vscode
-- rectangle
 - Install script
 
 ## Contact
