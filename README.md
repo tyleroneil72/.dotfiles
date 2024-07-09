@@ -5,7 +5,7 @@
 ## Description
 This repo serves as a collection for my dotfiles
 
-# Done
+## Done
 - Rectangle
 
 ## Todo
