@@ -13,6 +13,7 @@ This repo serves as a collection for my dotfiles
 - gitconfig
 - brewfile
 - vscode
+- rectangle
 - Install script
 
 ## Contact
