@@ -17,6 +17,7 @@ A personal collection of dotfiles to help set up and maintain a consistent devel
 - tmux - Terminal multiplexer setup
 - neovim (nvim) — Fully customized editor configuration (Lua-based)
 - Brewfile - Reproducible setup for my macOS development environment.
+- Prettier - Code formatter to enforce consistent style across projects.
 
 ## To Do
 
