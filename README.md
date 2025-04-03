@@ -3,13 +3,17 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
+
 This repo serves as a collection for my dotfiles
 
 ## Done
+
 - Rectangle
+- zsh
+- oh my posh theme
 
 ## Todo
-- zsh
+
 - nvim
 - tmux
 - gitconfig
