@@ -16,6 +16,7 @@ A personal collection of dotfiles to help set up and maintain a consistent devel
 - Rectangle — Window management on macOS
 - tmux - Terminal multiplexer setup
 - neovim (nvim) — Fully customized editor configuration (Lua-based)
+- iTerm2 - Custom theme, font, and appearance settings synced across machines
 - Brewfile - Reproducible setup for my macOS development environment.
 - Prettier - Code formatter to enforce consistent style across projects.
 
