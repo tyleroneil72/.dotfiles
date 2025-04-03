@@ -12,10 +12,10 @@ This repo serves as a collection for my dotfiles
 - zsh
 - oh my posh theme
 - tmux
+- nvim
 
 ## Todo
 
-- nvim
 - Install script
 
 ## Contact
