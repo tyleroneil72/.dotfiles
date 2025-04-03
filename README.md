@@ -6,19 +6,19 @@
 
 ## Description
 
-This repo serves as a collection for my dotfiles
+A personal collection of dotfiles to help set up and maintain a consistent development environment across systems. This includes configurations for my terminal, editor, window management, and more. Primarily tailored for macOS and Linux environments.
 
-## Done
+## Features
 
-- Rectangle
-- zsh
-- oh my posh theme
-- tmux
-- nvim
+- zsh - Customized shell setup
+- oh-my-zsh/oh-my-posh - Theming and prompt configuration
+- Rectangle — Window management on macOS
+- tmux - Terminal multiplexer setup
+- neovim (nvim) — Fully customized editor configuration (Lua-based)
 
-## Todo
+## To Do
 
-- Install script
+- Add a one-click install/setup script for new machines
 
 ## Contact
 
