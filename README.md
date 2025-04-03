@@ -11,14 +11,11 @@ This repo serves as a collection for my dotfiles
 - Rectangle
 - zsh
 - oh my posh theme
+- tmux
 
 ## Todo
 
 - nvim
-- tmux
-- gitconfig
-- brewfile
-- vscode
 - Install script
 
 ## Contact
